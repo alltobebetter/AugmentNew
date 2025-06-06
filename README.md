@@ -74,7 +74,7 @@ python gui_main.py
 ### 🎯 三步搞定账号切换
 
 1. **🚪 退出准备**
-   - 完全关闭 VS Code 或者程序
+   - 完全关闭 VS Code
    - 退出 AugmentCode 插件
 
 2. **🔧 一键清理**
