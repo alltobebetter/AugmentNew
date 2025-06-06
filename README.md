@@ -51,7 +51,7 @@
 
 ## 🚀 快速开始
 
-### 方式一：下载可执行文件（推荐）
+### 方式一：直接下载可执行文件并一键运行（推荐）
 1. [📥 下载最新版 AugmentNew.exe](https://github.com/alltobebetter/AugmentNew/releases/latest)
 2. 右键选择"以管理员身份运行"
 3. 按照界面提示操作即可
@@ -74,7 +74,7 @@ python gui_main.py
 ### 🎯 三步搞定账号切换
 
 1. **🚪 退出准备**
-   - 完全关闭 VS Code
+   - 完全关闭 VS Code 或者程序
    - 退出 AugmentCode 插件
 
 2. **🔧 一键清理**
